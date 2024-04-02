@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3dee681.css",
-    "main.js": "/static/js/main.be91f8c9.js",
+    "main.css": "/static/css/main.49723852.css",
+    "main.js": "/static/js/main.e9382a6b.js",
     "static/media/BG.gif": "/static/media/BG.3f13b4b3fa8bfb857275.gif",
-    "static/media/shitter-on-base.png": "/static/media/shitter-on-base.b4309a6a601992725a5f.png",
+    "static/media/shitter_on_base.gif": "/static/media/shitter_on_base.6250861cbd744b1e7f43.gif",
+    "static/media/sob.gif": "/static/media/sob.ca27693d4ea397b7925f.gif",
+    "static/media/buy.gif": "/static/media/buy.0491cc7d53276a945af8.gif",
+    "static/media/tg.gif": "/static/media/tg.d739339617b93b1c3d5a.gif",
     "index.html": "/index.html",
-    "main.d3dee681.css.map": "/static/css/main.d3dee681.css.map",
-    "main.be91f8c9.js.map": "/static/js/main.be91f8c9.js.map"
+    "main.49723852.css.map": "/static/css/main.49723852.css.map",
+    "main.e9382a6b.js.map": "/static/js/main.e9382a6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3dee681.css",
-    "static/js/main.be91f8c9.js"
+    "static/css/main.49723852.css",
+    "static/js/main.e9382a6b.js"
   ]
 }
